@@ -1,0 +1,98 @@
+[
+    {
+        "fname": "Marron",
+        "lname": "Francia",
+        "email": "marronfrancia11@gmail.com",
+        "number": "123456789",
+        "role": "patient",
+        "password": "123456"
+    },
+    {
+        "fname": "DDS",
+        "lname": "DS",
+        "email": "DS",
+        "number": "DS",
+        "role": "patient",
+        "password": "DS"
+    },
+    {
+        "fname": "ds",
+        "lname": "ds",
+        "email": "ds",
+        "number": "ds",
+        "role": "patient",
+        "password": "ds"
+    },
+    {
+        "fname": "DS",
+        "lname": "DDS",
+        "email": "DS",
+        "number": "DS",
+        "role": "doctor",
+        "password": "DS"
+    },
+    {
+        "fname": "ddsd",
+        "lname": "sdsd",
+        "email": "dsd",
+        "number": "sdsd",
+        "role": "doctor",
+        "password": "12"
+    },
+    {
+        "fname": "dfsfdf",
+        "lname": "dfdfd",
+        "email": "dfdf",
+        "number": "fdf",
+        "role": "doctor",
+        "password": "123"
+    },
+    {
+        "fname": "ds",
+        "lname": "ds",
+        "email": "ds",
+        "number": "ds",
+        "role": "doctor",
+        "password": "ds"
+    },
+    {
+        "fname": "sa",
+        "lname": "sa",
+        "email": "sa",
+        "number": "sa",
+        "role": "doctor",
+        "password": "sa"
+    },
+    {
+        "fname": "Marron",
+        "lname": "Francia",
+        "email": "marron@gmail.com",
+        "number": "093213232321",
+        "role": "doctor",
+        "password": "1234"
+    },
+    {
+        "fname": "Ashley",
+        "lname": "Cornejo",
+        "email": "ashley@gmail.com",
+        "number": "093123213421",
+        "role": "patient",
+        "password": "1234"
+    },
+    {
+        "fname": "Marron",
+        "lname": "Francia",
+        "email": "marron@gmail.com",
+        "number": "093124233512",
+        "role": "doctor",
+        "password": "1234"
+    },
+    {
+        "fname": "Ashley",
+        "lname": "Cornejo",
+        "email": "ashley@gmail.com",
+        "number": "09123456789",
+        "role": "patient",
+        "password": "12345"
+    }
+]

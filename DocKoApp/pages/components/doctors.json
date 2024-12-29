@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Dr. Kienne Cyrillie Eamiguel-Ampil",
+    "specialization": "MD, DFM, DPCGM - Family Medicine",
+    "experience": "9",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 09:00 AM - 01:00 PM",
+    "fee": "600 Pesos",
+    "hospital": "Perpetual Help Hospital Biñan",
+    "image_path": "Dr. Kienne Cyrillie Eamiguel-Ampil.jpg"
+  },
+  {
+    "name": "Dr. Mark McKelvie",
+    "specialization": "General Practice & Medical Aesthetics - Family Medicine",
+    "experience": "3",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 01:00 PM - 03:00 PM",
+    "fee": "₱600.00",
+    "hospital": "ACE Medical Center - Cebu",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Mark McKelvie.jpg"
+  },
+  {
+    "name": "Dr. Paula Glenn Salamante",
+    "specialization": "Dentist - General Dentistry",
+    "experience": "15",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Paula Glenn Salamante.jpg"
+  },
+  {
+    "name": "Dr. Keziah Christabel Aquino",
+    "specialization": "Doctor of Dental Medicine - General Dentistry",
+    "experience": "15",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Keziah Christabel Aquino.jpg"
+  },
+  {
+    "name": "Dr. Alberto Adrales",
+    "specialization": "MD, FPDS - Dermatology",
+    "experience": "15",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Alberto Adrales.jpg"
+  },
+  {
+    "name": "Dr. Veronica Therese Villanueva",
+    "specialization": "MD, MHA, PhD - Ophthalmology",
+    "experience": "15",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Veronica Therese Villanueva.jpg"
+  },
+  {
+    "name": "Dr. Lora Grace Deles",
+    "specialization": "MD, FPCP, DPSMID - Infectious Diseases, Public Health and Infection Control",
+    "experience": "8",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Andre Agoncillo.jpg"
+  },
+  {
+    "name": "Dr. Myvie Galon",
+    "specialization": "MD - Infectious Diseases, Internal Medicine",
+    "experience": "10",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Myvie Galon.jpg"
+  },
+  {
+    "name": "Dr. Jan Jorge Francisco",
+    "specialization": "MD, FPOGS, FPSUOG - Obstetrics and Gynecology, OB-GYN Ultrasound",
+    "experience": "10",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  },
+  {
+    "name": "Dr. Anna Celinna Velenzuela",
+    "specialization": "MD, DPPS - General Pediatrics",
+    "experience": "9",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": "C:\\Users\\User\\PycharmProjects\\DocKo\\frontend\\flet_app\\assets\\doctor_image\\Dr. Anna Celinna Valenzuela.jpg"
+  },
+  {
+    "name": "Dr. Renz Charllie Go",
+    "specialization": "MA, RGC, RPSY - Clinical Psychology",
+    "experience": "13",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  },
+  {
+    "name": "Dr. Joyce Padilla",
+    "specialization": "MS, MA, LPT, RPSY - Counseling, Psychologist - Anxiety & Stress-related concerns, Coaching, Family Counseling, Mental Health Counseling, and Relationship-related concern",
+    "experience": "14",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  },
+  {
+    "name": "Dr. Nino Emerico Porciuncula",
+    "specialization": "MD - Neurology-Psychiatry - Stroke",
+    "experience": "10",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  },
+  {
+    "name": "Dr. Carlo Villanueva",
+    "specialization": "MD - Otolaryngology - Head & Neck Surgery Ears, Nose, Throat",
+    "experience": "8",
+    "available_today": true,
+    "is_available": true,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  },
+  {
+    "name": "Dr. Ma. Stephanie Go",
+    "specialization": "MD, FPSOHNS - Otorhinolaryngology-Head and Neck Surgery",
+    "experience": "13",
+    "available_today": true,
+    "is_available": false,
+    "schedule": "Tomorrow, 03:00 PM - 05:00 PM",
+    "fee": "₱700.00",
+    "hospital": "Delos Santos Medical Center RM",
+    "image_path": ""
+  }
+]
